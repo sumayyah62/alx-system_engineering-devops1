@@ -12,3 +12,4 @@ this repository contains solution to shell basics
 this repository contains solution to shell task
 this repository contains solutions to shell task
 this contains solution to shell basics
+this repository contain solutions to shell tasks
