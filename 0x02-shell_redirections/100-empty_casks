@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/iin/bash
 find . -empty -printf %f'\n
